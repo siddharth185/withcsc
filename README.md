@@ -1,5 +1,5 @@
 Welcome to the AWS CodeStar Sample Custom Rule for AWS Config
-=============================================================
+=============================================================s
 
 This sample code helps get you started with a custom rule in AWS Config. The custom rule in this sample
 AWS CodeStar project evaluates the Amazon EC2 instances in your AWS account and reports in AWS Config whether each one is of the
